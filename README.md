@@ -21,12 +21,6 @@
 If you encounter any errors, DM me on discord (see author section)
 ```
 
-# FAQ
-```sh
-Q. Should I try and run this?
-A. If you have a basic understanding of Node.js and basic JavaScript, sure! If you have no clue what any of the instructions mean, then no.
-```
-
 
 ## Author
 
