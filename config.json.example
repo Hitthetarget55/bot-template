@@ -1,0 +1,9 @@
+{
+    "bot": {
+        "token":"",
+        "activity": {
+            "type":"PLAYING",
+            "game":"A Game"
+        }
+    }
+}

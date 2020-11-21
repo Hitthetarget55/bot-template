@@ -1,0 +1,15 @@
+const { MessageEmbed } = require('discord.js'); // import message embeds for using embeds
+module.exports = {
+    name: "command-name", // name of command
+    category: "debug", // category of command
+    description: "Returns all commands", // description of command
+    run: async(client, message, args) => { // main function
+        const embed = new MessageEmbed()
+        .setTitle("Hello")
+        .setDescription(`This is an example`)
+        .setColor("GREEN");
+        message.channel.send({embed: embed})
+        
+    }
+
+}
