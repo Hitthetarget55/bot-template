@@ -10,7 +10,7 @@
 
 ```sh
 1. Clone the files to your PC
-2. Open your terminal, locate to ./Drive/Users/YourUser/FileLocation/ and enter **copy config.json.example config.json**, open the generated config.json file and fill in the values.
+2. Open your terminal, locate to ./Drive/Users/YourUser/FileLocation/ and enter **copy config.json.example config.json** [THIS IS THE WINDOWS COMMAND], open the generated config.json file and fill in the values.
 3. Run **npm install** to install all the correct dependencies.
 4. Run **npm start**
 5. Your bot should be online, run !help to see the list of commands, and add your own commands, following the template in command-template.js.example
